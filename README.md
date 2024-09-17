@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enoch Ferreria</h1>
-<h3 align="center">A passionate freshman student currently taking 
-  BSIT Major in Network and Security at University of the Cordilleras Baguio City</h3>
+<h3 align="center">A passionate freshman student currently taking</h3>
+<h3 align="center">BSIT Major in Network and Security at University of the Cordilleras Baguio City</h3>
 
 - 🌱 I’m currently learning **Java Programming Language**
 
