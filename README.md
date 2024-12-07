@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Enoch Ferreria <br>Freshman student from the University of the Cordilleras<br>BSIT Major in Network and Security <br>🌱 I’m currently learning Java Programming Language<br>⚡ Fun fact : Antukin, Kupal , Boy Lobat<br>
+Hi, I'm Enoch Ferreria <br>Freshman student from the University of the Cordilleras<br>BSIT Major in Network and Security <br>🌱 I’m currently learning Java Programming Language<br>
 
 
 ## 🌐 Socials:
