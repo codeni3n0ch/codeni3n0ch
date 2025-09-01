@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Enoch, a 1st year BSIT student at University of the Cordilleras 👨‍💻 </div>  
+### <div align="center">I'm Enoch, a 2nd year BSIT student at University of the Cordilleras 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning Java Programming Language  
